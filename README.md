@@ -1,7 +1,4 @@
-# CreditRiskProject
 Credit Risk Scoring using Graph Neural Networks (GNN) with Explainability and Bias Detection
-Overview
-
 This project implements a Credit Risk Scoring System using Graph Neural Networks (GNNs) to model borrower relationships and predict loan default risk. Unlike traditional machine learning models that treat borrowers independently, this system captures relational patterns by constructing a borrower similarity graph and applying Graph Convolutional Networks (GCN) / GraphSAGE.
 
 The project also integrates:
